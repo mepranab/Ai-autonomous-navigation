@@ -1,0 +1,27 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Testing and code quality
+.pytest_cache/
+.ruff_cache/
+
+# VS Code settings
+.vscode/
+
+# Generated simulation results
+outputs/metrics/*.csv
+outputs/logs/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# YOLO model weights
+yolo11n.pt
+yolo11s.pt
