@@ -199,3 +199,15 @@ the project, if required by your institute.
 **College Department:** Commerce
 
 **GitHub Repository:** [AI Autonomous Navigation](https://github.com/mepranab/Ai-autonomous-navigation)
+
+## 🎬 Project Demonstration Video
+
+Watch my AI Autonomous Navigation simulation in action.
+
+[▶ Watch the Navigation Demo](https://github.com/mepranab/Ai-autonomous-navigation/blob/main/1010.mp4)
+
+### Demonstration Highlights
+- A* path planning
+- Robot movement in a grid environment
+- Dynamic obstacle handling and route replanning
+- Navigation dashboard and performance metrics
