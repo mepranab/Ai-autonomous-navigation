@@ -59,8 +59,6 @@ ai autonomous navigation/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-├── yolo11n.pt
-└── yolo11s.pt
 ```
 
 ## 5. Requirements
