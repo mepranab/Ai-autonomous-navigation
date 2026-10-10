@@ -188,3 +188,14 @@ mechanisms before operating around people.
 
 Add your name, department, institute, and project guide here before submitting
 the project, if required by your institute.
+## 14. Author
+
+**Name:** Pranab Das
+
+**Project Title:** AI-Based Autonomous Navigation System
+
+**Program / Organization:** EDC IIT Delhi,IIP
+
+**College Department:** Commerce
+
+**GitHub Repository:** [AI Autonomous Navigation](https://github.com/mepranab/Ai-autonomous-navigation)
