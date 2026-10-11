@@ -200,56 +200,14 @@ the project, if required by your institute.
 
 **GitHub Repository:** [AI Autonomous Navigation](https://github.com/mepranab/Ai-autonomous-navigation)
 
----
+## 🎬 Project Demonstration Video
 
-## 📸 Project Screenshots
+Watch my AI Autonomous Navigation simulation in action.
 
-### 1. Autonomous Navigation Dashboard
+[▶ Watch the Navigation Demo](https://github.com/mepranab/Ai-autonomous-navigation/blob/main/1010.mp4)
 
-The dashboard displays the robot's position, planned route, destination, obstacles, and navigation metrics.
-
-![Navigation Dashboard](screenshot/navigation%20dashboard.png)
-
-### 2. Robot Navigation and Obstacle Avoidance
-
-The simulation demonstrates path planning and obstacle avoidance.
-
-![Navigation Obstacle](screenshot/navigation%20obstacle.png)
-
-### 3. Live Camera Object Detection
-
-The camera detection program uses YOLO and OpenCV to identify objects and display bounding boxes.
-
-![Live Camera Detection](screenshot/live%20camera%20detection.png)
-
-### 4. Automated Test Results
-
-The automated test suite completed with 13 passing tests in the recorded test run.
-
-![Test Results](screenshot/test%20passed.png)---
-
-## 📸 Project Screenshots
-
-### 1. Autonomous Navigation Dashboard
-
-The dashboard displays the robot's position, planned route, destination, obstacles, and navigation metrics.
-
-![Navigation Dashboard](screenshot/navigation%20dashboard.png)
-
-### 2. Robot Navigation and Obstacle Avoidance
-
-The simulation demonstrates path planning and obstacle avoidance.
-
-![Navigation Obstacle](screenshot/navigation%20obstacle.png)
-
-### 3. Live Camera Object Detection
-
-The camera detection program uses YOLO and OpenCV to identify objects and display bounding boxes.
-
-![Live Camera Detection](screenshot/live%20camera%20detection.png)
-
-### 4. Automated Test Results
-
-The automated test suite completed with 13 passing tests in the recorded test run.
-
-![Test Results](screenshot/test%20passed.png)
+### Demonstration Highlights
+- A* path planning
+- Robot movement in a grid environment
+- Dynamic obstacle handling and route replanning
+- Navigation dashboard and performance metrics
