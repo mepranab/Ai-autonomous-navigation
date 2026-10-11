@@ -7,9 +7,11 @@
 A Python-based robotics simulation demonstrating autonomous navigation,
 A* path planning, obstacle avoidance, and YOLO object detection.
 
-[🎬 Watch Project Demo](1010.mp4)
+🎬 **[Watch the Project Demonstration on YouTube](https://youtu.be/DoCU9v2J9Dk)**
 
 </div>
+
+---
 
 ---
 
@@ -293,12 +295,14 @@ The recorded test run completed with 13 passing tests.
 
 ## 16. Project Demonstration Video
 
-Watch the navigation simulation in action:
+Watch the AI-Based Autonomous Navigation System in action.
 
-[▶ Watch the AI Autonomous Navigation Demo](1010.mp4)
+▶️ **[Watch the Project Demo on YouTube](https://youtu.be/DoCU9v2J9Dk)**
 
-The demonstration video showcases the project interface and its navigation
+The demonstration video showcases the project interface and navigation
 workflow.
+
+The original video is also available in the repository as `1010.mp4`.
 
 ---
 
