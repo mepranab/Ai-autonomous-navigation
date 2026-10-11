@@ -199,3 +199,57 @@ the project, if required by your institute.
 **College Department:** Commerce
 
 **GitHub Repository:** [AI Autonomous Navigation](https://github.com/mepranab/Ai-autonomous-navigation)
+
+---
+
+## 📸 Project Screenshots
+
+### 1. Autonomous Navigation Dashboard
+
+The dashboard displays the robot's position, planned route, destination, obstacles, and navigation metrics.
+
+![Navigation Dashboard](screenshot/navigation%20dashboard.png)
+
+### 2. Robot Navigation and Obstacle Avoidance
+
+The simulation demonstrates path planning and obstacle avoidance.
+
+![Navigation Obstacle](screenshot/navigation%20obstacle.png)
+
+### 3. Live Camera Object Detection
+
+The camera detection program uses YOLO and OpenCV to identify objects and display bounding boxes.
+
+![Live Camera Detection](screenshot/live%20camera%20detection.png)
+
+### 4. Automated Test Results
+
+The automated test suite completed with 13 passing tests in the recorded test run.
+
+![Test Results](screenshot/test%20passed.png)---
+
+## 📸 Project Screenshots
+
+### 1. Autonomous Navigation Dashboard
+
+The dashboard displays the robot's position, planned route, destination, obstacles, and navigation metrics.
+
+![Navigation Dashboard](screenshot/navigation%20dashboard.png)
+
+### 2. Robot Navigation and Obstacle Avoidance
+
+The simulation demonstrates path planning and obstacle avoidance.
+
+![Navigation Obstacle](screenshot/navigation%20obstacle.png)
+
+### 3. Live Camera Object Detection
+
+The camera detection program uses YOLO and OpenCV to identify objects and display bounding boxes.
+
+![Live Camera Detection](screenshot/live%20camera%20detection.png)
+
+### 4. Automated Test Results
+
+The automated test suite completed with 13 passing tests in the recorded test run.
+
+![Test Results](screenshot/test%20passed.png)
